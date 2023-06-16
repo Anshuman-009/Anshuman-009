@@ -1,7 +1,7 @@
 👏
 <br />
 Hi, I am Anshuman Pattnaik. <br/>
-Reach me at: mail
+Reach me at: mail  <br/>
 Currently wokring at Inveno LSI.
 
 ## My Tech Stack
