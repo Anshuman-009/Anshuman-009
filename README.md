@@ -1,8 +1,9 @@
 👏
 <br />
 Hi, I am Anshuman Pattnaik. <br/>
-Reach me at: mail  <br/>
-Currently wokring at .
+* **Reach me at:** [<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />](mailto:anshumanpattnaik.009@gmail.com)
+* **Connect with me:** [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />]([https://linkedin.com/in/your-profile-username](https://www.linkedin.com/in/anshuman-pattnaik-3323771a5/))
+Currently working at Intellect Informatics.
 
 ## My Tech Stack
 <p align="center">
@@ -17,5 +18,9 @@ Currently wokring at .
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-009&layout=compact&langs_count=8&theme=dark)
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anshuman-009&show_icons=true&theme=dark"/>
+### GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anshuman-009&show_icons=true&theme=dark&count_private=true" alt="Anshuman's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-009&layout=compact&langs_count=8&theme=dark&count_private=true" alt="Top Languages" />
+</p>
