@@ -21,6 +21,6 @@ Hi, I am Anshuman Pattnaik. <br/>
 ### GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anshuman-009&show_icons=true&theme=dark&count_private=true" alt="Anshuman's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anshuman-009&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Anshuman's GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman-009&layout=compact&langs_count=8&theme=dark&count_private=true" alt="Top Languages" />
 </p>
