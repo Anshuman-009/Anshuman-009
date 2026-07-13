@@ -31,6 +31,6 @@ Currently working at **Intellect Informatics**.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-tau-ecru-52.vercel.app/api?username=Anshuman-009&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&hide_rank=true&v=1" alt="Anshuman's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-tau-ecru-52.vercel.app/api/top-langs/?username=Anshuman-009&layout=compact&langs_count=6&theme=dark&hide_border=true&v=1" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-tau-ecru-52.vercel.app/api?username=Anshuman-009&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&hide_rank=true&cache_seconds=14400&v=2" alt="Anshuman's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-tau-ecru-52.vercel.app/api/top-langs/?username=Anshuman-009&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=14400&v=2" alt="Top Languages" />
 </p>
